@@ -2,4 +2,5 @@
 のんびりCTFを解いていく
 
 ## 解いてるCTf
-- cpaw
+- cpawctf
+- ksnctf
